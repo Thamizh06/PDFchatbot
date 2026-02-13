@@ -1,0 +1,1 @@
+Before using the project create a virtual environment and install the requirments from requirments.txt

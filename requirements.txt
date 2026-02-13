@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+langchain-classic
+langchain-google-genai
+faiss-cpu
+sentence-transformers
+huggingface-hub
+pypdf
+google-generativeai
